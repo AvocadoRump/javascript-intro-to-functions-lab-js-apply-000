@@ -2,7 +2,7 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-function lotShout(string) {
+function logShout(string) {
   return console.log(string.toUpperCase())
 }
 
